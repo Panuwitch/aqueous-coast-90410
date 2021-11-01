@@ -54,5 +54,5 @@ def Fullfillmant():
 #     return result4
 
 if __name__ == '__main__':
-    app.run(debug=False)
+    app.run(debug=True)
   
