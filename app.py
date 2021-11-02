@@ -28,31 +28,31 @@ except InvalidArgument:
 # print("Fulfillment text:", response.query_result.fulfillment_text)
 
 
-@app.route('/Querytext')
-def Querytext():
-    result1=response.query_result.query_text
-    return result1
-@app.route('/intent')
-def Intent():
-    result2=response.query_result.intent.display_name
-    return result2
-@app.route('/confidence')
-def Confidence():
-    result3=response.query_result.intent_detection_confidence
-    return result3
-@app.route('/fullfillment')
-def Fullfillmant():   
-    result4=response.query_result.fulfillment_text
-    return result4
-
 # @app.route('/')
-# def trans():
+# def Querytext():
 #     result1=response.query_result.query_text
+#     return result1
+# @app.route('/intent')
+# def Intent():
 #     result2=response.query_result.intent.display_name
+#     return result2
+# @app.route('/confidence')
+# def Confidence():
 #     result3=response.query_result.intent_detection_confidence
+#     return result3
+# @app.route('/fullfillment')
+# def Fullfillmant():   
 #     result4=response.query_result.fulfillment_text
 #     return result4
 
+@app.route('/')
+def trans():
+    result1=response.query_result.query_text
+    result2=response.query_result.intent.display_name
+    result3=response.query_result.intent_detection_confidence
+    result4=response.query_result.fulfillment_text
+    return result1,result4
+
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
   
