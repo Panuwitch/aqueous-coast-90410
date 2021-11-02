@@ -1,12 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "skilletscreatary-swwq",
-  "private_key_id": "6c9ad6d977bff7246e121f9110d5cb32deecdefa",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCzXtRzMLZCWfF6\n+9Z/JFcV7iZRO3HUnTctWluCRXpVF6hoR8a+AXO+THhibn3wKu+xryfjAeIQkxgL\n3QPV9B8tSjfx1JH6v3tUDTXeJyurS/6sqvh3hqDSOVMaxpMV7xMfrPnuOaXiLLQz\n8pBzvxc7EueroMvPZ7FDJaUNSE6IX4xtmMa+jcqrSsDV3+ekhVzFHk09Fmfi6VrB\njW2KXKUMGU0ace6eeuj/3mGrg/ntoYQKOi3Lay0mgCU3Qp0pl/ebbDezpDFcSpVF\n3R9j1SzxA+ELZsWrOiT7PTQcpbn0wZXOE7cTZOsXrXK8gM5gC5KTOAYsdpmldQfo\nhV8MT3HdAgMBAAECggEAKrrNQQiqbnmHP301brHdRhXmzmSrHBN8xMLY+FptR06c\nuYTZyUNGy59jcU1xlnBgC/PWPGujK0AjUxYqVwJyF+OtmqBBS1roug/wlHS/4C15\nJLCRAsZRUutBiyghe3Dp3RqjqnbUt+He5t4iv9QWqGW7R0VFsCm7TmvuGxEt1ioH\nmZ/htbK/tnggZ5aoOlTJlgXVR85O3Fz38HlR8OCdgUJ7h8yvjOTofi4ITgr+cQSh\n7ZiB4zHVg8qG7+N6aTlG8Sb3andar5djUV5cc+7eslfWd5wF8He050P3fajnKcoH\nWsb8uTlwgTshZ7nrn+opuDrh02GkXf8m+MYkLNg5AQKBgQD5xX5yEE5/JqgNWhA7\nK27WHwrM1kykxg4BT7ylY5AfQeshH7dCbh3j9gnO/SGv7S0YY34eKjVS9XjtrAzr\nqtIp7LtTeEZaBtbAAko0Ekhaub9/VQHPNjoVyat/DHhqJFtjQk/GJ7HkXNOBSrGv\nrs0yF+A6voITHxL4S1+zwNZ/AQKBgQC31+fWd/0upZ4PAZWKMciiu3v6AqoOGnQM\nlCbJmXgOuv4T3uIFRT3z3WOSF/+ouaMqjdchGheh8kqHUHevDHakcr9tO62DdkuT\nK4x+juAF/9oCyfXxhpJc7QWlFPVlQB+rgi37ogb+Vv9NZjon/xkJsClNlWAAjEDE\nQb4AafHO3QKBgQCK1iG0K6ZGfWlaip6NFVZ1xSmOtOxDhyfPyM/WqyI4jb6yWdvX\nHDiXN3M6UHCCRvcTIHLBN7sOUw6WJlXERd6umT2DZ07LyhNjBaLTkPoRHED6+XiZ\nAs6Ev+YJKBhi/7Sg1wJa5kO26XZT3v4n5qV+29CzNqQ9Fr/HrrYSx/UzAQKBgQCz\nxp8AnA9qiSwaMotgOzSe5cXjgq124yluj4WqiLfdd8A0ADV3v/FIQss2tt8byISl\nfVTNGu3XQM7eqbKP7Bks0MUe9UfFEW3v+ZsGu4KYe0xeg85MpDMGSgXGG8uoel89\n4SxEMHq0RrCbqIbgS9XZInoRUyww/PXstPkvAGskxQKBgQDRamj0vFkul6Wvqt/W\nYohT1g1IiCyIllBr6fU1jQzw2OJxTUUO2oFCJGK0N+XsWHFUTI/wR3COqXz7nmhP\nZpB7GrpTyVHG/BfF1yGYBp2Fr7weOealUNi38KAfjdQMl1yeEnizXS/EcnRTNuGy\nCidPXz84AyYR8nDNutWvXzTYkQ==\n-----END PRIVATE KEY-----\n",
-  "client_email": "curry-82@skilletscreatary-swwq.iam.gserviceaccount.com",
-  "client_id": "105609921570119421277",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/curry-82%40skilletscreatary-swwq.iam.gserviceaccount.com"
+  
 }
