@@ -48,5 +48,5 @@ def Fullfillmant():
 #     result4=response.query_result.fulfillment_text
 #     return result4
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=False)
   
